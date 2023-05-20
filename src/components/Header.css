@@ -1,0 +1,9 @@
+.app_bar {
+  position: fixed;
+  background-color: #2f2f2f;
+  box-shadow: 10px 0px;
+  padding: 0px;
+  font-family: "Righteous", cursive;
+  font-family: "Roboto", sans-serif;
+}
+
